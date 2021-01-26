@@ -1,0 +1,57 @@
+.container{
+    font-family: AlphaSmoke, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: white;
+}
+.pre{
+    text-align: center;
+    width: 250px;
+    border: 1px solid black;
+    text-decoration: none;
+    transition: .2s linear;
+
+}
+.pre:hover{
+    border-radius: 30px;
+    border: 1px solid wheat ;
+    background-color: #e84118;
+    font-size: 40px;
+}
+.jr{
+    text-align: center;
+    text-decoration: none;
+    width: 250px;
+    border: 1px solid black;
+    transition: .2s linear;
+}
+.jr:hover{
+    border-radius: 30px;
+    border: 1px solid wheat ;
+    background-color: #e84118;
+    font-size: 40px;
+}
+.jrPl{
+    text-decoration: none;
+    text-align: center;
+    width: 250px;
+    border: 1px solid black;
+    transition: .2s linear;
+}
+.jrPl:hover{
+    border-radius: 30px;
+    border: 1px solid wheat ;
+    background-color: #e84118;
+    font-size: 40px;
+
+}
+.link{
+    text-decoration: none;
+    color: #353b48;
+    transition: .2s left;
+}
+
+.link:hover {
+    color: #f5f6fa;
+}
